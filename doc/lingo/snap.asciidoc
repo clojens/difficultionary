@@ -1,0 +1,26 @@
+== Predicate
+
+There are two competing notions of the predicate in theories of grammar.
+
+== First notion (traditional)
+
+The first concerns traditional grammar, which tends to view a predicate as:
+
+- one of two main parts of a sentence, the other part being the subject
+- the purpose of the predicate is to complete an idea about the subject
+  such as what it does or what it is like.
+
+== Second notion (first order logic)
+
+The second derives from work in predicate calculus (predicate logic, first order
+logic) and is prominent in modern theories of syntax and grammar.
+
+In this approach, the predicate of a sentence:
+
+- corresponds mainly to the main verb
+- and any auxiliaries that accompany the main verb
+- the arguments of that predicate are outside the predicate
+
+Arguments are often subject, object and other noun-phrases NP
+
+This article considers both of these notions.
